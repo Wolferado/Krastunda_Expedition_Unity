@@ -361,3 +361,16 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+### Unity stuff
+/Library
+/Logs
+/obj
+/Packages
+/Screenshots
+/Temp
+/UserSettings
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+DVD_Project_Blue_Project.sln
+sc.utilities.screenshot.editor.csproj
